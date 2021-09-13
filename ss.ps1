@@ -13,9 +13,9 @@ $receivermail = "a@vg.co"; # up to you
 $sleeping = 10;
 
 # sender e-mail auth data
-$MailSender = "screenshot@odecom.od.ua";
+$MailSender = "screenshot@server.com";
 $MailSenderPassword = "gUK&r4Zg2w6F";
-$MailServer = "mail.odecom.od.ua";
+$MailServer = "mail.server.com";
 $MailServerPort = "587";
 
 # fullpath to scrips and screenshot
